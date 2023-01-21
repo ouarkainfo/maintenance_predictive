@@ -5,6 +5,8 @@
 This project is an example of a dashboard for maintenace predictive, we simluate data by using python script. 
 For predictition: we have a pre-trained model using Random Foreset algorithm  with accuracy is: 98%.
 
+
+![Alt text](maintenance_predictive.png?raw=true "Dashboard")
 ## How to install:
 1. docker-compose up
 
