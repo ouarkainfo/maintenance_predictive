@@ -19,6 +19,10 @@ For predictition: we have a pre-trained model using Random Foreset algorithm  wi
 5. You need to create a backuet in inflexDB
 
 
+## Google colab link for training model
+https://colab.research.google.com/drive/1IUtDla3NHwMAWVA-vfQwVz3xHM8MHoWc?usp=sharing
+
+
 
 
 
